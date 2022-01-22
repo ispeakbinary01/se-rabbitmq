@@ -3,7 +3,7 @@ package queue
 import (
 	"fmt"
 
-	"github.com/ispeakbinary01/se-rabbitmq/conn"
+	"../conn"
 	"github.com/streadway/amqp"
 )
 
