@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"../conn"
+	"github.com/ispeakbinary01/se-rabbitmq/pkg/conn"
 	"github.com/streadway/amqp"
 )
 
